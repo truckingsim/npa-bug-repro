@@ -1,0 +1,23 @@
+{
+  "name": "npa-bug-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truckingsim/npa-bug-repro.git"
+  },
+  "keywords": [],
+  "author": "Adam Heim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truckingsim/npa-bug-repro/issues"
+  },
+  "homepage": "https://github.com/truckingsim/npa-bug-repro#readme",
+  "dependencies": {
+    "@somescopre/npa-bug-library": "git+ssh://git@github.com:truckingsim/npa-bug-library#semver:^1.0.1"
+  }
+}
